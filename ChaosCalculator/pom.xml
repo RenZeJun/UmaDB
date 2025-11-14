@@ -11,7 +11,7 @@
 	<groupId>com.zejunren</groupId>
 	<artifactId>ChaosCalculator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>UmaDB</name>
+	<name>ChaosCalculator</name>
 	<description>Demo project for Spring Boot and ReactJS</description>
 	<url/>
 	<licenses>
