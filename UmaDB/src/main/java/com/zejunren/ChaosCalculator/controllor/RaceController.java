@@ -1,9 +1,8 @@
-package com.zejunren.UmaDB.controllor;
+package com.zejunren.ChaosCalculator.controllor;
 
-import com.zejunren.UmaDB.model.G1Race;
-import com.zejunren.UmaDB.model.Trainee;
-import com.zejunren.UmaDB.repository.G1RaceRepository;
-import com.zejunren.UmaDB.service.G1RaceService;
+import com.zejunren.ChaosCalculator.model.G1Race;
+import com.zejunren.ChaosCalculator.repository.G1RaceRepository;
+import com.zejunren.ChaosCalculator.service.G1RaceService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

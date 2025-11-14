@@ -1,6 +1,6 @@
-package com.zejunren.UmaDB.repository;
+package com.zejunren.ChaosCalculator.repository;
 
-import com.zejunren.UmaDB.model.Trainee;
+import com.zejunren.ChaosCalculator.model.Trainee;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.List;

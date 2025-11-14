@@ -1,8 +1,8 @@
-package com.zejunren.UmaDB.controllor;
+package com.zejunren.ChaosCalculator.controllor;
 
-import com.zejunren.UmaDB.model.Trainee;
-import com.zejunren.UmaDB.repository.TraineeRepository;
-import com.zejunren.UmaDB.service.TraineeService;
+import com.zejunren.ChaosCalculator.model.Trainee;
+import com.zejunren.ChaosCalculator.repository.TraineeRepository;
+import com.zejunren.ChaosCalculator.service.TraineeService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Optional;

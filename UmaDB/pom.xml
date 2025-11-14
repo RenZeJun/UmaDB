@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.zejunren</groupId>
-	<artifactId>UmaDB</artifactId>
+	<artifactId>ChaosCalculator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>UmaDB</name>
 	<description>Demo project for Spring Boot and ReactJS</description>

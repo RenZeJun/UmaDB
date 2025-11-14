@@ -1,7 +1,7 @@
-package com.zejunren.UmaDB.service;
+package com.zejunren.ChaosCalculator.service;
 
-import com.zejunren.UmaDB.model.Trainee;
-import com.zejunren.UmaDB.repository.TraineeRepository;
+import com.zejunren.ChaosCalculator.model.Trainee;
+import com.zejunren.ChaosCalculator.repository.TraineeRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.zejunren.UmaDB;
+package com.zejunren.ChaosCalculator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

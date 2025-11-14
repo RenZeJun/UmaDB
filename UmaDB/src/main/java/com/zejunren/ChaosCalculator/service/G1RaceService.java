@@ -1,7 +1,7 @@
-package com.zejunren.UmaDB.service;
+package com.zejunren.ChaosCalculator.service;
 
-import com.zejunren.UmaDB.model.G1Race;
-import com.zejunren.UmaDB.repository.G1RaceRepository;
+import com.zejunren.ChaosCalculator.model.G1Race;
+import com.zejunren.ChaosCalculator.repository.G1RaceRepository;
 import org.springframework.stereotype.Service;
 
 @Service

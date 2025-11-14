@@ -1,4 +1,4 @@
-package com.zejunren.UmaDB;
+package com.zejunren.ChaosCalculator;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
