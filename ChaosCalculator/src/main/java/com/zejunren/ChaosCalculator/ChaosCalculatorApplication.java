@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-public class UmaDbApplication {
+public class ChaosCalculatorApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UmaDbApplication.class, args);
+		SpringApplication.run(ChaosCalculatorApplication.class, args);
 	}
 
 }
